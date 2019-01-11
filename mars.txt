@@ -2,3 +2,4 @@ Mars looks red from a distance.
 And it does not have any canals!
 I made this change on the remote.
 I am writing this line for at home practice.
+This is a test.
